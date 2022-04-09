@@ -25,7 +25,7 @@
     "loaders.css": "0.1.2",
     "lodash": "^4.17.11",
     "mdbreact": "^4.11.0",
-    "moment": "2.22.2",
+    "moment": "2.29.2",
     "mui-datatables": "2.0.0-beta-52",
     "node-sass": "^4.11.0",
     "prop-types": "^15.6.2",
